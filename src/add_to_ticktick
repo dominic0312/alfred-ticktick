@@ -3,7 +3,7 @@
 require 'json'
 require 'net/http'
 
-TICKTICK_HOST = "ticktick.com"
+TICKTICK_HOST = "dida365.com"
 AUTH_URL      = "/api/v2/user/signon?wc=true&remember=true"
 ADD_TASK_URL  = "/api/v2/task"
 
